@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+enum CellState: String {
+    case empty = " "
+    case cross = "X"
+    case circle = "O"
+}

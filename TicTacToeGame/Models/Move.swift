@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Move {
+    var row: Int
+    var col: Int
+}
